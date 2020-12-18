@@ -1,4 +1,4 @@
-### Hi there, my name Anan but some friends call me Samuel. I'm fullstack developer 👋
+### Hi there, my name Anan but some friends call me Nana. I'm fullstack developer 👋
 
 - 🌱 I’m currently learning React and Express in order to improve my skill;
 - 🤔 I’m looking for girlfriend; just kidding ;
