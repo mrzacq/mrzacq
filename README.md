@@ -1,5 +1,15 @@
 ### Hi there, my name Anan but some friends call me Nana. I'm fullstack developer 👋
 
+## Github Performance Overall
+
+![github stats](https://github-readme-stats.vercel.app/api?username=mrzacq&show_icons=true)
+
+## My Github Most Used Language
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrzacq&theme=vue">
+
+## Current activity
+
 - 🌱 I’m currently learning React and Express in order to improve my skill;
 - 🤔 I’m looking for girlfriend; just kidding ;
 - 💼 Actually I'm looking for gaining more experience in real world of programming;
