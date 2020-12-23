@@ -12,6 +12,7 @@
   <a href="https://github.com/mrzacq?tab=followers">
     <img src="https://img.shields.io/github/followers/mrzacq?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=naufaldi" alt="naufaldi" /> </p>
 </p>
 
 ## Github Performance Overall
