@@ -5,7 +5,7 @@
 - 🤔 I’m self taught programmer;
 - 💼 My goals is gaining more experience in real world of programming;
 - 💬 Ask me about anything, literally anything;
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anan-hartanto-23a77417b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BZwUaP6gDSlqinVDkV%2BoCMw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-nav.settings_view_profile)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anan-hartanto/)
 [Telegram](https://t.me/ananhartanto) [Gmail](hartantoaanan@gmail.com)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrzacq" alt="mrzacq" /> </p>
